@@ -14,7 +14,7 @@ All the commands are not case sensitive.
 
 ###### A Step by Step Instruction in Visual Studio
 
-1. Clone or download the solution using the button on the up-right corner
+1. `Clone or download` the solution using the green button on the up-right corner
 
 2. Open the LtShowcase.sln file using Visual Studio
 
