@@ -2,7 +2,7 @@
 
 This is a solution for LT Technical showcase.
 
-It is a console application in C#. Please build the code in Visual Studio.
+It is a console application in C#. Visual Studio is highly recommended to build the solution.
 
 When the console application is running, type in correct command, ex. `photo-album 2`, will display all the photo ids and titles in the album.
 If the command is not correct, the console will return `Command is not valid.`
